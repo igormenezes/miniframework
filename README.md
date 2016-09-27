@@ -1,4 +1,5 @@
-# Miniframework
-Projeto realizado em 2014
+# Miniframework - Julho 2014
 
-Simples framework com estrutura MVC
+Simples framework com estrutura MVC.
+
+Desenvolvido em PHP.
